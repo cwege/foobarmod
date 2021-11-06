@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "foobarmod:blocks/magicgrassbottom",
+    "up": "foobarmod:blocks/magicgrasstop",
+    "north": "foobarmod:blocks/magicgrass",
+    "east": "foobarmod:blocks/magicgrass",
+    "south": "foobarmod:blocks/magicgrass",
+    "west": "foobarmod:blocks/magicgrass",
+    "particle": "foobarmod:blocks/magicgrassbottom"
+  }
+}

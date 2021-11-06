@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "foobarmod:blocks/juliblockbottom",
+    "up": "foobarmod:blocks/juliblocktop",
+    "north": "foobarmod:blocks/juliblockside",
+    "east": "foobarmod:blocks/juliblockside",
+    "south": "foobarmod:blocks/juliblockside",
+    "west": "foobarmod:blocks/juliblockside",
+    "particle": "foobarmod:blocks/juliblockbottom"
+  }
+}

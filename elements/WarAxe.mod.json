@@ -1,0 +1,29 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "war_axe_texture",
+    "customModelName": "Normal",
+    "name": "War Axe",
+    "specialInfo": [
+      "war axe to hit the Garlicer"
+    ],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 7,
+    "efficiency": 11.0,
+    "attackSpeed": 0.5,
+    "enchantability": 2,
+    "damageVsEntity": 10.0,
+    "usageCount": 100,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

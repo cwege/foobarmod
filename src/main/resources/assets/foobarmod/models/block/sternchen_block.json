@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "foobarmod:blocks/sternchentextur",
+    "up": "foobarmod:blocks/sternchentextur",
+    "north": "foobarmod:blocks/sternchentextur",
+    "east": "foobarmod:blocks/sternchentextur",
+    "south": "foobarmod:blocks/sternchentextur",
+    "west": "foobarmod:blocks/sternchentextur",
+    "particle": "foobarmod:blocks/sternchentextur"
+  }
+}

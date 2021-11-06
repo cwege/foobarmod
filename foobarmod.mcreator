@@ -1,0 +1,92 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Magicgrass",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magicgrass"
+    },
+    {
+      "name": "IlujBlock",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iluj_block"
+    },
+    {
+      "name": "SternchenBlock",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sternchen_block"
+    },
+    {
+      "name": "FooBar",
+      "type": "tab",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "foo_bar"
+    },
+    {
+      "name": "WarAxe",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "war_axe"
+    },
+    {
+      "name": "WarAxeRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "war_axe_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.foobarmod.magicgrass": "Magicgrass",
+      "itemGroup.tabfoo_bar": "Foo Bar",
+      "item.foobarmod.war_axe": "War Axe",
+      "block.foobarmod.iluj_block": "Iluj Block",
+      "block.foobarmod.sternchen_block": "Sternchen Block"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "foobarmod",
+    "modName": "foobarmod",
+    "version": "1.0.0",
+    "author": "cwege, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.foobarmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}
