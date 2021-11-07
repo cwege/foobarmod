@@ -1,7 +1,16 @@
 {
-  "block.foobarmod.magicgrass": "Magicgrass",
-  "itemGroup.tabfoo_bar": "Foo Bar",
+  "block.foobarmod.garlicblock": "Garlicblock",
   "item.foobarmod.war_axe": "War Axe",
+  "advancements.smelly_progress.title": "Smelly Progress",
+  "block.foobarmod.sternchen_block": "Sternchen Block",
+  "block.foobarmod.garlic_oil": "Garlic Oil",
+  "item.foobarmod.garlic_oil_bucket": "Garlic Oil Bucket",
+  "block.foobarmod.magicgrass": "Magicgrass",
+  "advancements.smelly_progress.descr": "Smelly progress",
+  "itemGroup.tabfoo_bar": "Foo Bar",
+  "entity.foobarmod.garlicer": "Garlicer",
   "block.foobarmod.iluj_block": "Iluj Block",
-  "block.foobarmod.sternchen_block": "Sternchen Block"
+  "fluid.foobarmod.garlic_oil": "Garlic Oil",
+  "item.foobarmod.garlicer_spawn_egg": "Garlicer Spawn Egg",
+  "item.foobarmod.garlic": "Garlic"
 }

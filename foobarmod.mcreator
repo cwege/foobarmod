@@ -54,17 +54,74 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "war_axe_recipe"
+    },
+    {
+      "name": "Garlicer",
+      "type": "livingentity",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "garlicer"
+    },
+    {
+      "name": "GarlicOil",
+      "type": "fluid",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "garlic_oil",
+      "metadata": {
+        "gb": true
+      }
+    },
+    {
+      "name": "Garlic",
+      "type": "food",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "garlic"
+    },
+    {
+      "name": "Garlicblock",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "garlicblock"
+    },
+    {
+      "name": "SmellyProgress",
+      "type": "achievement",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smelly_progress"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "block.foobarmod.magicgrass": "Magicgrass",
-      "itemGroup.tabfoo_bar": "Foo Bar",
+      "block.foobarmod.garlicblock": "Garlicblock",
       "item.foobarmod.war_axe": "War Axe",
+      "advancements.smelly_progress.title": "Smelly Progress",
+      "block.foobarmod.sternchen_block": "Sternchen Block",
+      "block.foobarmod.garlic_oil": "Garlic Oil",
+      "item.foobarmod.garlic_oil_bucket": "Garlic Oil Bucket",
+      "block.foobarmod.magicgrass": "Magicgrass",
+      "advancements.smelly_progress.descr": "Smelly progress",
+      "itemGroup.tabfoo_bar": "Foo Bar",
+      "entity.foobarmod.garlicer": "Garlicer",
       "block.foobarmod.iluj_block": "Iluj Block",
-      "block.foobarmod.sternchen_block": "Sternchen Block"
+      "fluid.foobarmod.garlic_oil": "Garlic Oil",
+      "item.foobarmod.garlicer_spawn_egg": "Garlicer Spawn Egg",
+      "item.foobarmod.garlic": "Garlic"
     }
   },
   "foldersRoot": {

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "foobarmod:blocks/garlicoil",
+    "up": "foobarmod:blocks/garlicoil",
+    "north": "foobarmod:blocks/garlicoil",
+    "east": "foobarmod:blocks/garlicoil",
+    "south": "foobarmod:blocks/garlicoil",
+    "west": "foobarmod:blocks/garlicoil",
+    "particle": "foobarmod:blocks/garlicoil"
+  }
+}
