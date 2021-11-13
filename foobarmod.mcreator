@@ -59,7 +59,7 @@
       "name": "Herzdieb",
       "type": "tool",
       "sortid": 12,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "ids": {},
       "registry_name": "herzdieb"
@@ -68,7 +68,7 @@
       "name": "Garlicer",
       "type": "livingentity",
       "sortid": 12,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "ids": {},
       "registry_name": "garlicer"
@@ -77,7 +77,7 @@
       "name": "GarlicOil",
       "type": "fluid",
       "sortid": 13,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "ids": {},
       "registry_name": "garlic_oil",
@@ -89,7 +89,7 @@
       "name": "Garlicblock",
       "type": "block",
       "sortid": 15,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "ids": {},
       "registry_name": "garlicblock"
@@ -98,7 +98,7 @@
       "name": "Garlic",
       "type": "food",
       "sortid": 14,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "ids": {},
       "registry_name": "garlic"
@@ -117,11 +117,11 @@
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.foobarmod.war_axe": "War Axe",
-      "block.foobarmod.sternchen_block": "Sternchen Block",
       "block.foobarmod.magicgrass": "Magicgrass",
       "itemGroup.tabfoo_bar": "Foo Bar",
-      "block.foobarmod.iluj_block": "Iluj Block"
+      "item.foobarmod.war_axe": "War Axe",
+      "block.foobarmod.iluj_block": "Iluj Block",
+      "block.foobarmod.sternchen_block": "Sternchen Block"
     }
   },
   "foldersRoot": {
