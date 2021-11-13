@@ -56,45 +56,6 @@
       "registry_name": "war_axe_recipe"
     },
     {
-      "name": "Garlicer",
-      "type": "livingentity",
-      "sortid": 12,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "garlicer"
-    },
-    {
-      "name": "GarlicOil",
-      "type": "fluid",
-      "sortid": 13,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "garlic_oil",
-      "metadata": {
-        "gb": true
-      }
-    },
-    {
-      "name": "Garlic",
-      "type": "food",
-      "sortid": 14,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "garlic"
-    },
-    {
-      "name": "Garlicblock",
-      "type": "block",
-      "sortid": 15,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "garlicblock"
-    },
-    {
       "name": "SmellyProgress",
       "type": "achievement",
       "sortid": 16,
@@ -102,15 +63,6 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "smelly_progress"
-    },
-    {
-      "name": "GreakBlock",
-      "type": "block",
-      "sortid": 17,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "greak_block"
     }
   ],
   "variable_elements": [],
