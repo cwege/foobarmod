@@ -111,27 +111,26 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "greak_block"
+    },
+    {
+      "name": "Herzdieb",
+      "type": "tool",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "herzdieb"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "block.foobarmod.garlicblock": "Garlicblock",
-      "block.foobarmod.greak_block": "Greak Block",
       "item.foobarmod.war_axe": "War Axe",
-      "advancements.smelly_progress.title": "Smelly Progress",
       "block.foobarmod.sternchen_block": "Sternchen Block",
-      "block.foobarmod.garlic_oil": "Garlic Oil",
-      "item.foobarmod.garlic_oil_bucket": "Garlic Oil Bucket",
       "block.foobarmod.magicgrass": "Magicgrass",
-      "advancements.smelly_progress.descr": "Smelly progress",
       "itemGroup.tabfoo_bar": "Foo Bar",
-      "entity.foobarmod.garlicer": "Garlicer",
-      "block.foobarmod.iluj_block": "Iluj Block",
-      "fluid.foobarmod.garlic_oil": "Garlic Oil",
-      "item.foobarmod.garlicer_spawn_egg": "Garlicer Spawn Egg",
-      "item.foobarmod.garlic": "Garlic"
+      "block.foobarmod.iluj_block": "Iluj Block"
     }
   },
   "foldersRoot": {
