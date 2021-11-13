@@ -2,7 +2,7 @@
   "display": {
     "background": "minecraft:textures/block/stone.png",
     "icon": {
-      "item": "foobarmod:garlic"
+      "item": "foobarmod:deleted_mod_element"
     },
     "title": {
       "translate": "advancements.smelly_progress.title"
@@ -13,7 +13,7 @@
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
-    "hidden": false
+    "hidden": true
   },
   "criteria": {
     "smelly_progress": {
@@ -21,7 +21,7 @@
       "conditions": {
         "items": [
           {
-            "item": "foobarmod:garlic",
+            "item": "minecraft:emerald_block",
             "count": {
               "min": 1,
               "max": 64

@@ -79,10 +79,12 @@
   "language_map": {
     "en_us": {
       "block.foobarmod.magicgrass": "Magicgrass",
+      "advancements.smelly_progress.descr": "Smelly progress",
       "itemGroup.tabfoo_bar": "Foo Bar",
       "item.foobarmod.war_axe": "War Axe",
       "entity.foobarmod.garlicer": "Garlicer",
       "block.foobarmod.iluj_block": "Iluj Block",
+      "advancements.smelly_progress.title": "Smelly Progress",
       "block.foobarmod.sternchen_block": "Sternchen Block",
       "item.foobarmod.garlicer_spawn_egg": "Garlicer Spawn Egg"
     }
