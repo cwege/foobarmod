@@ -54,6 +54,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "war_axe_recipe"
+    },
+    {
+      "name": "Herzdieb",
+      "type": "tool",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "herzdieb"
     }
   ],
   "variable_elements": [],
@@ -62,6 +71,7 @@
     "en_us": {
       "block.foobarmod.magicgrass": "Magicgrass",
       "itemGroup.tabfoo_bar": "Foo Bar",
+      "item.foobarmod.herzdieb": "Herzdieb",
       "item.foobarmod.war_axe": "War Axe",
       "block.foobarmod.iluj_block": "Iluj Block",
       "block.foobarmod.sternchen_block": "Sternchen Block"
