@@ -111,26 +111,17 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "greak_block"
-    },
-    {
-      "name": "Herzdieb",
-      "type": "tool",
-      "sortid": 12,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "herzdieb"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.foobarmod.war_axe": "War Axe",
-      "block.foobarmod.sternchen_block": "Sternchen Block",
       "block.foobarmod.magicgrass": "Magicgrass",
       "itemGroup.tabfoo_bar": "Foo Bar",
-      "block.foobarmod.iluj_block": "Iluj Block"
+      "item.foobarmod.war_axe": "War Axe",
+      "block.foobarmod.iluj_block": "Iluj Block",
+      "block.foobarmod.sternchen_block": "Sternchen Block"
     }
   },
   "foldersRoot": {
