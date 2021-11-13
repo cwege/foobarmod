@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "foobarmod:blocks/greek_texture_front",
+    "up": "foobarmod:blocks/greek_texture_front",
+    "north": "foobarmod:blocks/greek_texture_front",
+    "east": "foobarmod:blocks/greek_texture_front",
+    "south": "foobarmod:blocks/greek_texture_front",
+    "west": "foobarmod:blocks/greek_texture_front",
+    "particle": "foobarmod:blocks/greek_texture_front"
+  }
+}
