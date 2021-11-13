@@ -63,18 +63,65 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "herzdieb"
+    },
+    {
+      "name": "Garlicer",
+      "type": "livingentity",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "garlicer"
+    },
+    {
+      "name": "GarlicOil",
+      "type": "fluid",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "garlic_oil",
+      "metadata": {
+        "gb": true
+      }
+    },
+    {
+      "name": "Garlicblock",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "garlicblock"
+    },
+    {
+      "name": "Garlic",
+      "type": "food",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "garlic"
+    },
+    {
+      "name": "SmellyProgress",
+      "type": "achievement",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smelly_progress"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.foobarmod.war_axe": "War Axe",
+      "block.foobarmod.sternchen_block": "Sternchen Block",
       "block.foobarmod.magicgrass": "Magicgrass",
       "itemGroup.tabfoo_bar": "Foo Bar",
-      "item.foobarmod.herzdieb": "Herzdieb",
-      "item.foobarmod.war_axe": "War Axe",
-      "block.foobarmod.iluj_block": "Iluj Block",
-      "block.foobarmod.sternchen_block": "Sternchen Block"
+      "block.foobarmod.iluj_block": "Iluj Block"
     }
   },
   "foldersRoot": {
