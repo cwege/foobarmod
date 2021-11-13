@@ -2,6 +2,8 @@
   "block.foobarmod.magicgrass": "Magicgrass",
   "itemGroup.tabfoo_bar": "Foo Bar",
   "item.foobarmod.war_axe": "War Axe",
+  "entity.foobarmod.garlicer": "Garlicer",
   "block.foobarmod.iluj_block": "Iluj Block",
-  "block.foobarmod.sternchen_block": "Sternchen Block"
+  "block.foobarmod.sternchen_block": "Sternchen Block",
+  "item.foobarmod.garlicer_spawn_egg": "Garlicer Spawn Egg"
 }

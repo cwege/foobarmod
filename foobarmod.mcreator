@@ -63,6 +63,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "smelly_progress"
+    },
+    {
+      "name": "Garlicer",
+      "type": "livingentity",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "garlicer"
     }
   ],
   "variable_elements": [],
@@ -72,8 +81,10 @@
       "block.foobarmod.magicgrass": "Magicgrass",
       "itemGroup.tabfoo_bar": "Foo Bar",
       "item.foobarmod.war_axe": "War Axe",
+      "entity.foobarmod.garlicer": "Garlicer",
       "block.foobarmod.iluj_block": "Iluj Block",
-      "block.foobarmod.sternchen_block": "Sternchen Block"
+      "block.foobarmod.sternchen_block": "Sternchen Block",
+      "item.foobarmod.garlicer_spawn_egg": "Garlicer Spawn Egg"
     }
   },
   "foldersRoot": {
