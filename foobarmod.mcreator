@@ -56,54 +56,6 @@
       "registry_name": "war_axe_recipe"
     },
     {
-      "name": "Herzdieb",
-      "type": "tool",
-      "sortid": 12,
-      "compiles": false,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "herzdieb"
-    },
-    {
-      "name": "Garlicer",
-      "type": "livingentity",
-      "sortid": 12,
-      "compiles": false,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "garlicer"
-    },
-    {
-      "name": "GarlicOil",
-      "type": "fluid",
-      "sortid": 13,
-      "compiles": false,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "garlic_oil",
-      "metadata": {
-        "gb": true
-      }
-    },
-    {
-      "name": "Garlicblock",
-      "type": "block",
-      "sortid": 15,
-      "compiles": false,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "garlicblock"
-    },
-    {
-      "name": "Garlic",
-      "type": "food",
-      "sortid": 14,
-      "compiles": false,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "garlic"
-    },
-    {
       "name": "SmellyProgress",
       "type": "achievement",
       "sortid": 16,
