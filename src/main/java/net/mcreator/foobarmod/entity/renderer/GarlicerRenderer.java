@@ -23,7 +23,7 @@ public class GarlicerRenderer {
 					renderManager -> new MobRenderer(renderManager, new GhastModel(), 0.5f) {
 						@Override
 						public ResourceLocation getEntityTexture(Entity entity) {
-							return new ResourceLocation("foobarmod:textures/evilgarlicer.png");
+							return new ResourceLocation("foobarmod:textures/texture.png");
 						}
 					});
 		}
