@@ -27,11 +27,11 @@ public class WarAxe2Item extends FoobarmodModElements.ModElement {
 			}
 
 			public float getEfficiency() {
-				return 4f;
+				return 10f;
 			}
 
 			public float getAttackDamage() {
-				return 2f;
+				return 18f;
 			}
 
 			public int getHarvestLevel() {
