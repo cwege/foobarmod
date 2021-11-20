@@ -72,6 +72,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "garlicer"
+    },
+    {
+      "name": "WarAxe2",
+      "type": "tool",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "war_axe_2"
     }
   ],
   "variable_elements": [],
@@ -86,7 +95,8 @@
       "block.foobarmod.iluj_block": "Iluj Block",
       "advancements.smelly_progress.title": "Smelly Progress",
       "block.foobarmod.sternchen_block": "Sternchen Block",
-      "item.foobarmod.garlicer_spawn_egg": "Garlicer Spawn Egg"
+      "item.foobarmod.garlicer_spawn_egg": "Garlicer Spawn Egg",
+      "item.foobarmod.war_axe_2": "War Axe 2"
     }
   },
   "foldersRoot": {
